@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/740302
+Content-Type: application/json
+
+{
+    "name": "manu",
+    "number": "0415"
+}
